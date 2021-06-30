@@ -37,7 +37,7 @@ All input data is available in the "./data" folder:
 
  
 ## Reference
-[1] Nguyen, Duc Anh, Canh Hao Nguyen, and Hiroshi Mamitsuka. "A survey on adverse drug reaction studies: data, tasks and machine learning methods." Briefings in Bioinformatics (2019).
+[1] Nguyen, Duc Anh, Canh Hao Nguyen, and Hiroshi Mamitsuka. "A survey on adverse drug reaction studies: data, tasks and machine learning methods." Briefings in Bioinformatics (2019). .
  
 
 
